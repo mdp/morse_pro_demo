@@ -1,0 +1,14 @@
+{
+  "name": "morse_pro_demo",
+  "version": "1.0.0",
+  "description": "Demonstration of using Morse Pro for LICW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Percival <m@mdp.im>",
+  "license": "ISC",
+  "dependencies": {
+    "morse-pro": "^2.0.0"
+  }
+}
